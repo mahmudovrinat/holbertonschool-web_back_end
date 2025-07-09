@@ -1,4 +1,2 @@
 // Create Database
-#!/usr/bin/env mongo
 use my_db
-db.dummy_collection.insert({ name: "dummy" })
